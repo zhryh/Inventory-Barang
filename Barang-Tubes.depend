@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1704500680 source:c:\users\asus\onedrive\documents\struktur data\mod15\barang-tubes\main.cpp
+	<iostream>
+	"barang.h"
+	<string>
+
+1704500321 c:\users\asus\onedrive\documents\struktur data\mod15\barang-tubes\barang.h
+	<string>
+	<iostream>
+
+1704500283 source:c:\users\asus\onedrive\documents\struktur data\mod15\barang-tubes\barang.cpp
+	"barang.h"
+
